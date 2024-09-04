@@ -1,4 +1,7 @@
 ### Hi there, my name is Serwaa Wiredu 👋
+- 🔭 I’m currently working on a Customer Segmentation and RFM analysis project as part of my studies on Main Analysis types for Data Analysts.
+- 📫 How to reach me: www.linkedin.com/in/serwaa-wiredu-a9479419a and https://x.com/SerwaWiredu
+  
 
 <!--
 **SerwaaW/SerwaaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
