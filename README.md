@@ -1,6 +1,9 @@
-### Hi there, my name is Serwaa Wiredu 👋
+### Hi there👋,
+
+ My name is Serwaa Wiredu and I'm interested in all things Data Analytics!
 - 🔭 I’m currently working on a Customer Segmentation and RFM analysis project as part of my studies on Main Analysis types for Data Analysts.
-- 📫 How to reach me: www.linkedin.com/in/serwaa-wiredu-a9479419a and https://x.com/SerwaWiredu
+- I recently completed projects on Funnel Analysis, Retention, cohorts and Churn, Tableau and SQL.
+- 📫 You can reach me on www.linkedin.com/in/serwaa-wiredu-a9479419a and https://x.com/SerwaWiredu
   
 
 <!--
