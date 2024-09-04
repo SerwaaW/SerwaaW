@@ -1,7 +1,7 @@
 ### Hi there👋,
 
  My name is Serwaa Wiredu and I'm interested in all things Data Analytics!
-- 🔭 I’m currently working on a Customer Segmentation and RFM analysis project as part of my studies on Main Analysis types for Data Analysts.
+- 🔭 I’m currently working on a Spreadsheets, Customer Segmentation and RFM analysis project as part of my studies on Main Analysis types for Data Analysts.
 - I recently completed projects on Funnel Analysis, Retention, Cohorts and Churn,Tableau 👉🏾(https://public.tableau.com/app/profile/serwaa.wiredu/vizzes) and SQL.
 - 📫 You can reach me on www.linkedin.com/in/serwaa-wiredu-a9479419a and https://x.com/SerwaWiredu
   
