@@ -1,8 +1,8 @@
 ### Hi there👋,
 
  My name is Serwaa Wiredu and I'm interested in all things Data Analytics!
-- 🔭 I’m currently working on a Statistical Inference and A/B Testing project as part of my studies on Main Analysis types for Data Analysts.
-- I recently completed projects on Spreadsheets, SQL, Funnel Analysis, Retention, Cohorts and Churn, Tableau 👉🏾(https://public.tableau.com/app/profile/serwaa.wiredu/vizzes) and Customer Segmentation and RFM analysis.
+- 🔭 I’m currently working on a Python project as part of my studies on Python for Data Analytics.
+- I recently completed projects on Spreadsheets, SQL, Funnel Analysis, Retention, Cohorts and Churn, Tableau 👉🏾(https://public.tableau.com/app/profile/serwaa.wiredu/vizzes) and Customer Segmentation and RFM analysis, Statistical Inference and A/B Testing project
 - 📫 You can reach me on www.linkedin.com/in/serwaa-wiredu-a9479419a and https://x.com/SerwaWiredu
   
 
